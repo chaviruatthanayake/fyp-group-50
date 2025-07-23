@@ -2,7 +2,6 @@
 
 ========================
 
-## Author : Uditha Nayanajith - 0766574153
 
 A comprehensive system for evaluating video interview responses using AI analysis, eye tracking, personality assessment, and content evaluation.
 
